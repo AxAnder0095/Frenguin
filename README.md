@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Frenguin
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java and Object Oriented Programming 
+- 🌱 Learned languages are Java, C# and Python
+-     Skills are OOP and Data structues and Algorithms
+-     Haven't fugured out how to use github with C# yet so no C# projects are available  
+- 
 
 
 <!---
